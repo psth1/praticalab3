@@ -4,7 +4,7 @@
     // if user not in the session state.
     $curYear = date('Y');
     $projectStatus = '';
-    alteraçao
+    alteraçao1
     session_start();
     //welcome message
     $userName = $_SESSION['username'];
